@@ -1,0 +1,5 @@
+- Changed cars from RED and GREEN to PURPLE and WHITE
+- Changed background from grass to asphalt
+- Changed track to look more realistic
+- Added background music to the game
+- Added arrow key (UP, DOWN, LEFT, RIGHT) movements alongside the (W, A, S, D) movements.
